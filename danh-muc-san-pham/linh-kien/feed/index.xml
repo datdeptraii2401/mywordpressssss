@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; Dat1feet</title>
-	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<title>Linh kiện &#8211; Dat1feet</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/linh-kien/feed/" rel="self" type="application/rss+xml" />
 	<link>http://datdeptraii2401.github.io/mywordpressssss</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 12 Oct 2021 05:05:00 +0000</lastBuildDate>
