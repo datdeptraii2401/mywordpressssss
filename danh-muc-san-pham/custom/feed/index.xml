@@ -10,7 +10,7 @@
 <channel>
 	<title>Custom &#8211; Dat1feet</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/custom/feed/" rel="self" type="application/rss+xml" />
-	<link>http://datdeptraii2401.github.io/mywordpressssss</link>
+	<link>https://datdeptraii2401.github.io/mywordpressssss</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 12 Oct 2021 08:35:31 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,36 +21,36 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Bộ máy tính custom 2.</title>
-		<link>http://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-2/</link>
-					<comments>http://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-2/#respond</comments>
+		<link>https://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-2/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-2/#respond</comments>
 		
 		<dc:creator><![CDATA[datdeptraii]]></dc:creator>
 		<pubDate>Tue, 12 Oct 2021 08:35:30 +0000</pubDate>
-				<guid isPermaLink="false">http://datdeptraii2401.github.io/mywordpressssss/?post_type=product&#038;p=123</guid>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpressssss/?post_type=product&#038;p=123</guid>
 
 					<description><![CDATA[Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.]]></description>
 										<content:encoded><![CDATA[<p>Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bộ máy tính custom 1.</title>
-		<link>http://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-1/</link>
-					<comments>http://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-1/#respond</comments>
+		<link>https://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-1/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-1/#respond</comments>
 		
 		<dc:creator><![CDATA[datdeptraii]]></dc:creator>
 		<pubDate>Tue, 12 Oct 2021 08:33:31 +0000</pubDate>
-				<guid isPermaLink="false">http://datdeptraii2401.github.io/mywordpressssss/?post_type=product&#038;p=121</guid>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpressssss/?post_type=product&#038;p=121</guid>
 
 					<description><![CDATA[Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.]]></description>
 										<content:encoded><![CDATA[<p>Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-1/feed/</wfw:commentRss>
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressssss/san-pham/bo-may-tinh-custom-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

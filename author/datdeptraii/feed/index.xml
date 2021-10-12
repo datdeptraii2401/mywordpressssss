@@ -10,7 +10,7 @@
 <channel>
 	<title>datdeptraii &#8211; Dat1feet</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/datdeptraii/feed/" rel="self" type="application/rss+xml" />
-	<link>http://datdeptraii2401.github.io/mywordpressssss</link>
+	<link>https://datdeptraii2401.github.io/mywordpressssss</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 12 Oct 2021 03:34:00 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>http://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/</link>
-					<comments>http://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/#comments</comments>
+		<link>https://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[datdeptraii]]></dc:creator>
 		<pubDate>Tue, 12 Oct 2021 03:34:00 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://datdeptraii2401.github.io/mywordpressssss/?p=1</guid>
+		<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpressssss/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
