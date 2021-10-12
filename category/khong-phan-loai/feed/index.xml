@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://datdeptraii2401.github.io/mywordpressssss</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 12 Oct 2021 03:34:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Oct 2021 15:42:33 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,9 +20,170 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>1 số linh kiện máy tính cũ và điều cần biết</title>
+		<link>https://datdeptraii2401.github.io/mywordpressssss/1-so-linh-kien-may-tinh-cu/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressssss/1-so-linh-kien-may-tinh-cu/#respond</comments>
+		
+		<dc:creator><![CDATA[datdeptraii]]></dc:creator>
+		<pubDate>Tue, 12 Oct 2021 12:30:04 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpressssss/?p=148</guid>
+
+					<description><![CDATA[Bài viết này chúng tôi sẽ cùng bạn &#8220;mổ xẻ&#8221; một bộ máy tính để bàn thông thường, để cùng xem qua những linh kiện máy tính bên trong. Giúp cho bạn có kiến thức để tự mình có thể lựa chọn những linh kiện phù hợp khi quyết định nâng cấp máy tính hoặc [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Bài viết này chúng tôi sẽ cùng bạn &#8220;mổ xẻ&#8221; một bộ máy tính để bàn thông thường, để cùng xem qua những linh kiện máy tính bên trong. Giúp cho bạn có kiến thức để tự mình có thể lựa chọn những linh kiện phù hợp khi quyết định nâng cấp máy tính hoặc tự sửa máy tính đối với những lỗi cơ bản về phần cứng, </strong>linh kiện <em>máy tính</em><strong>.</strong></p>
+
+
+
+<h2 class="has-text-align-center"><strong>1/ Linh kiện máy tính cũ </strong></h2>
+
+
+
+<p>Mỗi linh kiện bên trong máy tính đều đóng góp 1 phần quan trọng trong sự vận hành chung của cả hệ thống, cũng giống như cơ thể con người. Không bộ phận nào là thừa cả. Một số linh kiện <strong>máy tính</strong> còn là yếu tố quyết định đến tốc độ và hiệu suất của máy tính. Bây giờ chúng ta sẽ cùng xem qua danh sách các linh kiện bên trong một bộ máy tính.</p>
+
+
+
+<p><strong><u>Lưu ý :</u></strong>&nbsp;Bài viết này chỉ mang tính chất sơ lược. Về chi tiết của từng linh kiện máy tính cũ trong khuôn khổ 1 bài viết chúng tôi không thể đề cập hết được. Nên sẽ hẹn các bạn ở loạt bài lần sau.</p>
+
+
+
+<ol>
+<li>CPU &#8211; Chíp xử lý của máy tính</li>
+</ol>
+
+
+
+<p>Đa phần khách hàng và một số kỹ thuật viên <strong><em>mua</em></strong> linh kiện máy tính vẫn có thói quen gọi nguyên thùng máy tính là&nbsp;<em>&#8220;thùng CPU</em>&#8220;. Đây là cách gọi sai, vì thực chất CPU chỉ là một con chip nhỏ khoảng 2 x 2 cm. Chịu trách nhiệm xử lý dữ liệu của hệ thống, phân tích các thuật toán, nhận luồng dữ liệu, các thuật toán phức tạp, sau đó trả về kết quả.</p>
+
+
+
+<p>CPU được ví như bộ não của con người, người nào càng thông minh đều đó có nghĩa là bộ não của họ rất phát triển. CPU cũng vậy, các thông số của CPU càng cao đồng nghĩa tốc độ của cả hệ thống cũng được tăng lên rất nhiều linh kiện máy tính cũ .</p>
+
+
+
+<p><strong>Hình ảnh của một trong những chíp xử lý:</strong></p>
+
+
+
+<figure><img src="https://st.quantrimang.com/photos/image/082012/10/Linh-kien-1.jpg" alt="linh kiện máy tính cũ" /></figure>
+
+
+
+<p><strong>Các sự cố máy tính thường gặp khi CPU có vấn đề:</strong></p>
+
+
+
+<ul><li>CPU quá nóng do không đươc tản nhiệt tốt -&gt; Máy hay bị tắt ngang sau một thời gian hoạt động hoặc lúc vừa khởi động</li><li>CPU bị gẫy chân tiếp xúc (hoặc trầy mặt tiếp xúc) -&gt; <em><strong>Mua </strong></em>linh kiện máy tính khởi động không lên</li><li>CPU thiếu điện (do các tụ xung quanh bị phù) -&gt; Máy cũng khởi động không lên</li></ul>
+
+
+
+<p style="text-align: left; padding-left: 40px;">2. Fan CPU &#8211; Bộ quạt tản nhiệt cho chip CPU</p>
+
+
+
+<p>Đây là thiết bị làm mát cho CPU được nuôi bằng nguồn điện 12V linh kiện máy tính cũ. Thường có dạng tròn hoặc vuông tùy theo CPU. Có phần tiếp xúc với CPU bằng kim loại, thường là nhôm hoặc đồng.</p>
+
+
+
+<figure><img src="https://st.quantrimang.com/photos/image/082012/10/Linh-kien-2.jpg" alt="linh kiện máy tính cũ" /></figure>
+
+
+
+<p><strong>Các sự cố do nguyên nhân Fan CPU:</strong></p>
+
+
+
+<ul><li>Quạt không quay hoặc quay yếu -&gt; CPU nóng -&gt; Máy khởi động lên một thời gian ngắn rồi tự tắt</li><li>Lớp keo tản nhiệt bị khô, hoặc chân Fan gắn với bo mạch chính bị gãy. Cũng làm cho CPU nóng và bị các triệu chứng tương tự</li></ul>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p style="padding-left: 40px;">3. RAM &#8211; Bộ nhớ của máy tính (Bộ nhớ truy cập ngẫu nhiên)</p>
+
+
+
+<p>Đây là linh kiện giúp cải thiện đáng kể tốc độ của máy, được dùng để tải các dữ liệu làm việc lên các chíp nhớ trước khi đưa vào CPU xử lý. RAM càng nhiều thì máy tính chạy càng nhanh linh kiện máy tính cũ . Tuy nhiên với lượng RAM trên 3GB, bạn cần phải cài hệ điều hành phiên bản 64bit mới nhận đủ được. Một số máy chủ chuyên dụng thậm chí còn chạy RAM lên đến 128GB.</p>
+
+
+
+<p><strong>Các sự cố do RAM gây ra:</strong></p>
+
+
+
+<ul>
+<li>Lỏng chân tiếp xúc với mainboard (bo mạch chính) -&gt; Máy khởi động không lên (có thể kèm theo tiếng kêu tit tit khi khởi động)</li>
+<li>RAM bị hư chip nhớ -&gt; Máy có thể vẫn hoạt động nhưng thường bị &#8220;màn hình xanh&#8221;</li>
+<li>RAM cắm lỏng lẻo, không đúng chuẩn hoặc bị ẩm ướt -&gt; Cháy bo mạch chính</li>
+</ul>
+<p style="padding-left: 40px;">4. Mainboard (Motherboard)- Bo mạch chính</p>
+
+
+
+
+
+<p>Linh kiện này có chức năng chính là để gắn các linh kiện máy tính cũ khác và kết nối chúng lại với nhau thông qua các cổng PCI, Socket CPU, Khe cắm RAM, Cổng IDE &#8211; SATA. Mỗi loại mainboard thường hỗ trợ một số chuẩn RAM, CPU nhất định. Để xem được một cách chính xác bạn nên tham khảo mục Support list (danh sách hỗ trợ) trên trang chủ của hãng sản xuất main.</p>
+
+
+
+<figure><img src="https://st.quantrimang.com/photos/image/082012/10/Linh-kien-3.jpg" alt="linh kiện máy tính cũ" /></figure>
+
+
+
+<p><strong>Các lỗi về main thường gặp:</strong></p>
+
+
+
+<ul>
+<li>Hư BIOS: Máy không thể khởi động hoặc có thể khởi động nhưng không lưu được cấu hình. (Ngày tháng, thiết bị khởi động, chuẩn nhận diện thiết bị)</li>
+<li>Phù tụ: gây thiếu điện cho một số thiết bị, nhẹ thì máy tính sẽ thường xuyên bị DUMP (màn hình xanh khi đang dùng) &#8211; nặng hơn thì có thể không khởi động được</li>
+<li>Hư các khe cắm và cổng tiếp xúc: Ngoài việc làm cho thiết bị cắm trên khe hoặc cổng đó không thể nhận diện được, lỗi này còn có khả năng gây cháy nổ do chập điện</li>
+</ul>
+<p style="padding-left: 40px;">5. Card màn hình VGA Card</p>
+
+
+
+
+
+<p>Card màn hình chủ yếu dành cho những ai có nhu cầu thiên linh kiện máy tính cũ về xử lý đồ họa như: Xem phim HD, Thiết kế đồ họa, Chơi game, dựng phim. Card màn hình cũng có&nbsp;<em>&#8220;CPU</em>&#8221; và RAM riêng của mình.</p>
+
+
+
+<figure><img src="https://st.quantrimang.com/photos/image/082012/10/Linh-kien-4.jpg" alt="linh kiện máy tính cũ" /></figure>
+
+
+
+<p><strong>Các lỗi phổ biến của card màn hình:</strong></p>
+
+
+
+<ul><li>Lỏng chân tiếp xúc ở khe cắm với Mainboard -&gt; Máy khởi động nhưng màn hình không lên</li><li>Hư chíp: Màn hình hiển thị màu ở dạng 8 bit, trông rất xấu.</li><li>Quá nóng: Hình ảnh bị giật, gây đứng máy khi dùng các ứng dụng yêu cầu về đồ họa</li></ul>
+
+
+
+<p>Trên đây là 5 linh kiện ảnh hưởng nhiều đến tốc độ và hiệu suất của một bộ máy tính, việc kết hợp giữa các thiết bị phải tuân theo yêu cầu của nhà sản xuất. Tránh tình trạng xung đột hoặc hỏng hóc do không tương thích linh kiện máy tính cũ .</p>
+
+
+
+<p>Ở phần 2 tiếp theo chúng tôi sẽ giới thiệu về các linh kiện còn lại bao gồm: Bộ nguồn, Thùng máy, ổ cứng, ổ DVD, Một số card mở rộng &#8230;</p>
+
+
+
+<p><iframe loading="lazy" src="https://giphy.com/embed/hfGBJtI9p1POZjNX2H" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="https://giphy.com/gifs/pc-old-computer-oldpc-hfGBJtI9p1POZjNX2H" target="_blank" rel="noopener">via GIPHY</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressssss/1-so-linh-kien-may-tinh-cu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/</link>
-					<comments>https://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/#comments</comments>
+		<link>https://datdeptraii2401.github.io/mywordpressssss/chao-moi-nguoi/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressssss/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[datdeptraii]]></dc:creator>
 		<pubDate>Tue, 12 Oct 2021 03:34:00 +0000</pubDate>
@@ -34,7 +195,7 @@
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressssss/2021/10/12/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressssss/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
